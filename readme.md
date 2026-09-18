@@ -13,7 +13,7 @@ The following tools must be installed and available in your system PATH:
 
 ## Configuration
 
-Open `extract-frames.ps1` in a text editor and modify the configuration variables:
+Open `video frame downloader script.ps1` in a text editor and modify the configuration variables:
 
 ```powershell
 # Frame capture timestamp in seconds (e.g., 30 = 30 seconds, 300 = 5 minutes)
