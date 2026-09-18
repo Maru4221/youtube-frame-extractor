@@ -1,6 +1,6 @@
 # YouTube Frame Extractor
 
-A PowerShell script that extracts a single frame image at a specific timestamp from every video on a YouTube channel.
+A PowerShell script that extracts a single frame image at a specific timestamp from a single video or every video on a YouTube channel.
 
 ## Prerequisites
 
