@@ -57,7 +57,7 @@ yt-dlp --flat-playlist --print id $channel | ForEach-Object {
 
 2. Execute the script:
    ```powershell
-   .\extract-frames.ps1
+   .\video frame downloader script.ps1
    ```
 
 ---
