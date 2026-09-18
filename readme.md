@@ -25,7 +25,7 @@ $channel = "https://www.youtube.com/@channelname/videos"
 
 ---
 
-## Script Code (`extract-frames.ps1`)
+## Script Code (`video frame downloader script.ps1`)
 
 ```powershell
 New-Item -ItemType Directory -Force frames, clips | Out-Null
